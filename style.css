@@ -1,0 +1,21 @@
+        .blog{
+            border: 10px solid green;
+            height: 200px;
+            width: 250px;
+            border-radius: 15px;
+            margin: 10px 20px 40px 15px;
+            margin: 2%;
+            padding: 20px 30px;
+            float: left;
+
+
+        }
+
+        h2{
+            text-align: center;
+        }
+
+        p{
+            text-align: justify;
+        }
+   
